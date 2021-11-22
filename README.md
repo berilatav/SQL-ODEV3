@@ -1,5 +1,5 @@
 # SQL-ODEV3
-Like, Ilike Operatörü
+Like, Ilike Operatörü (Postgre SQL - pgAdmin tablosuna göre yapılmıştır.)
 ##
 1) SELECT country FROM country
    WHERE country LIKE 'A%a';
